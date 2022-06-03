@@ -28,7 +28,7 @@
     "dist"
   ],
   "dependencies": {
-    "@pixi/display": "^5.0.4"
+    "@pixi/display": "^6.3.2"
   },
   "devDependencies": {
     "floss": "^2.2.0"
