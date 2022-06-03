@@ -33,7 +33,7 @@
     "@pixi/math": "^5.0.4",
     "@pixi/settings": "^5.0.4",
     "@pixi/sprite": "^5.0.4",
-    "@pixi/utils": "^5.0.4"
+    "@pixi/utils": "^6.3.2"
   },
   "devDependencies": {
     "@pixi/spritesheet": "^5.0.4",
