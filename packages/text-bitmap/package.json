@@ -32,7 +32,7 @@
     "@pixi/loaders": "^5.0.4",
     "@pixi/math": "^5.0.4",
     "@pixi/settings": "^5.0.4",
-    "@pixi/sprite": "^5.0.4",
+    "@pixi/sprite": "^6.3.2",
     "@pixi/utils": "^5.0.4"
   },
   "devDependencies": {
