@@ -27,7 +27,7 @@
     "@pixi/canvas-renderer": "^5.0.4",
     "@pixi/constants": "^5.0.4",
     "@pixi/mesh": "^5.0.4",
-    "@pixi/mesh-extras": "^5.0.4",
+    "@pixi/mesh-extras": "^6.3.2",
     "@pixi/settings": "^5.0.4"
   },
   "devDependencies": {
