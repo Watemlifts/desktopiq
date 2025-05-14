@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "@pixi/core": "^5.0.4",
-    "@pixi/display": "^5.0.4"
+    "@pixi/display": "^7.4.3"
   },
   "devDependencies": {
     "@pixi/canvas-renderer": "^5.0.4",
