@@ -31,6 +31,6 @@
     "@pixi/display": "^6.3.2"
   },
   "devDependencies": {
-    "floss": "^2.2.0"
+    "floss": "^3.0.0"
   }
 }
